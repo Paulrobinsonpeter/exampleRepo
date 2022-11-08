@@ -10,6 +10,11 @@ public int netPrice(Car a) {
 	return a.price+a.taxAmount;
 	
 	
+	
+}
+public void nettax() {
+	System.out.println(5);
+	
 }
 
 }
